@@ -1,0 +1,6 @@
+@DataAnnotations_HostAddress = http://localhost:5104
+
+GET {{DataAnnotations_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
